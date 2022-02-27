@@ -1,0 +1,9 @@
+com\menu\service1\menu_microservice\repository\MenuRepository.class
+com\menu\service1\menu_microservice\controller\ItemDTO.class
+com\menu\service1\menu_microservice\controller\MenuDTO.class
+com\menu\service1\menu_microservice\model\Item.class
+com\menu\service1\menu_microservice\MenuMicroserviceApplication.class
+com\menu\service1\menu_microservice\model\Menu.class
+com\menu\service1\menu_microservice\service\MenuServiceImpl.class
+com\menu\service1\menu_microservice\service\MenuService.class
+com\menu\service1\menu_microservice\controller\MenuController.class
